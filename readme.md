@@ -1,0 +1,1 @@
+Use https://datatracker.ietf.org/doc/html/rfc1459 as a reference for building an IRC client.

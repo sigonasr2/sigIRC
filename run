@@ -1,0 +1,5 @@
+cd /workspace/sigIRC
+javac -Xlint:unchecked -cp . sigIRC.java
+printf "\n\n\nRunning Program...\n\n"
+java sigIRC
+./clean

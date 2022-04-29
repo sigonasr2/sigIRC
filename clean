@@ -1,0 +1,2 @@
+cd /workspace/sigIRC
+find . -type f -name *.class -delete
